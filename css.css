@@ -1,0 +1,59 @@
+body {
+  background: linear-gradient( to bottom, #884A39, #C38154, #FFC26F, #F9E0BB);
+
+}
+
+a {
+  color: #3695d5;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(15, 86, 179);
+  text-decoration: underline;
+
+}
+
+.header{
+  text-align: center;
+  background-color: #3695d5;
+}
+
+.over{
+  text-align: left;
+  text-align: center;
+}
+.about{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.school{
+  text-align: center;
+}
+.schooluitleg{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.contact{
+  text-align: center;
+}
+.contactuitleg{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.kennis{
+  text-align: center;
+}
+.kennisuitleg{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+
+
+
+
+
